@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MVPDemo</string>
+
+    <string name="button_hint">点击保存用户数据</string>
+
+    <string name="progress_hint">正在保存用户数据</string>
+
+    <string name="show_hint">显示/隐藏进度条</string>
+    <string name="auth_url">http://localhost:8888/app/roleList</string>
+</resources>
